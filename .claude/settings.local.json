@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(git mv:*)",
+      "Bash(git -C /Users/marklevison/Documents/GitHub/APR/apr-public-files status)",
+      "Bash(git -C /Users/marklevison/Documents/GitHub/APR/apr-public-files diff --staged)",
+      "Bash(git -C /Users/marklevison/Documents/GitHub/APR/apr-public-files log --oneline -5)",
+      "Bash(git -C /Users/marklevison/Documents/GitHub/APR/apr-public-files add CLAUDE.md)",
+      "Bash(git -C:*)"
+    ]
+  }
+}
